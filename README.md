@@ -1,2 +1,1 @@
-C#
-c# dilinde iki sorunun cevaplanması
+C# dilinde iki sorunun cevaplanması
