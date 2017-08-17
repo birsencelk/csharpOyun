@@ -1,0 +1,6 @@
+C:\Users\birsenn\Desktop\Yeni klasör\csharpOyun\oyun\oyun\bin\Debug\oyun.exe.config
+C:\Users\birsenn\Desktop\Yeni klasör\csharpOyun\oyun\oyun\bin\Debug\oyun.exe
+C:\Users\birsenn\Desktop\Yeni klasör\csharpOyun\oyun\oyun\bin\Debug\oyun.pdb
+C:\Users\birsenn\Desktop\Yeni klasör\csharpOyun\oyun\oyun\obj\Debug\oyun.csprojResolveAssemblyReference.cache
+C:\Users\birsenn\Desktop\Yeni klasör\csharpOyun\oyun\oyun\obj\Debug\oyun.exe
+C:\Users\birsenn\Desktop\Yeni klasör\csharpOyun\oyun\oyun\obj\Debug\oyun.pdb
